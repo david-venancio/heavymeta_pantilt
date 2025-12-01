@@ -1,5 +1,7 @@
 # heavymeta_pantilt
 A 2 axis machine able to carry *some* kilograms.
+![PAN Axis view in Blender](https://github.com/david-venancio/heavymeta_pantilt/blob/main/pan.png)
+![TILT Axis view in Blender](https://github.com/david-venancio/heavymeta_pantilt/blob/main/tilt.png)
 
 Firmware and Linux app under development (SDL2 openGL).
 
